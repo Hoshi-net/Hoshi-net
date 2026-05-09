@@ -5,10 +5,10 @@
 
   <br>
 
-  <!-- Покемоны -->
-  <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/pikachu.gif" width="90" />
-  <img src="https://media.tenor.com/5nSKlBlwdkIAAAAj/eevee-pokemon.gif" width="90" />
-  <img src="https://media.tenor.com/mMM5P4zKIXgAAAAj/gengar-pokemon.gif" width="90" />
+  <!-- Покемоны (спрайты из PokéAPI — стабильные и анимированные) -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="90" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="90" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="90" />
 
   <br><br>
 
@@ -53,8 +53,8 @@ I'm **Hoshi-net** — a passionate programmer who loves building things from scr
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hoshi-net&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshi-net&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hoshi-net&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshi-net&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=86400" />
 
   <br><br>
 
@@ -79,7 +79,7 @@ I'm **Hoshi-net** — a passionate programmer who loves building things from scr
 
 <div align="center">
 
-  <img src="https://media.tenor.com/Dr5miOKOtz8AAAAj/pikachu-pokemon.gif" width="60" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="60" />
 
   <br>
 
